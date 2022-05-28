@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkJlybw/3FgFWT1oQbnZq2S7xymRBcTPpLIE8kxnfeBtoCbxzRl3JkuLX8cn1lskINWIYloCOGniJvK6fuL8YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\yayo Animation\\yayoAni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Killface\\.nuget\\packages\\krafs.publicizer\\1.0.2\\krafs.publicizer.1.0.2.nupkg.sha512",
+    "C:\\Users\\Killface\\.nuget\\packages\\krafs.rimworld.ref\\1.3.3326\\krafs.rimworld.ref.1.3.3326.nupkg.sha512",
+    "C:\\Users\\Killface\\.nuget\\packages\\lib.harmony\\2.2.1\\lib.harmony.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

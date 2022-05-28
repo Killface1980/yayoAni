@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Assemblies\yayoAni.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\obj\Debug\yayoAni.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\yayo Animation\Assemblies\yayoAni.dll
